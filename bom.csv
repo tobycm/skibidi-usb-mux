@@ -1,8 +1,19 @@
 Description,Quantity,Part #,Unit price,Extended Price USD,Product Link
-LCSC Shipping,,LCSC Shipping,13.16,13.16,https://www.lcsc.com/
-LCSC Handling Fee,,LCSC Handling Fee,3,3,https://www.lcsc.com/
-PCB,,PCB,6.1,6.1,https://jlcpcb.com/
-PCBA,,PCBA,25.44,25.44,https://jlcpcb.com/
-JLCPCB Shipping,,JLCPCB Shipping,8.53,8.53,https://jlcpcb.com/
+100nF ±10% 50V Ceramic Capacitor X7R 0603,50,CC0603KRX7R9BB104,0.0175,0.88,https://www.lcsc.com/product-detail/C14663.html
+10uF ±20% 25V Ceramic Capacitor X5R 0603,60,CL10A106MA8NRNC,0.0798,4.79,https://www.lcsc.com/product-detail/C96446.html
+"USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount, Right Angle",40,TYPE-C 16PIN 2MD(073),0.0707,2.83,https://www.lcsc.com/product-detail/C2765186.html
+USB-A (USB TYPE-A) Receptacle Connector 4 Position Right Angle,30,AF 90 WJDG,0.0487,1.46,https://www.lcsc.com/product-detail/C456018.html
+5.1k? ±1% 100mW 0603 Thick Film Resistor,100,FRC0603F5101TS,0.0025,0.25,https://www.lcsc.com/product-detail/C2907044.html
+56k? ±1% 100mW 0603 Thick Film Resistor,100,0603WAF5602T5E,0.005,0.50,https://www.lcsc.com/product-detail/C23206.html
+Pushbutton Switch DPDT Rectangular Plunger,10,PS-5850A-6PL,0.2048,2.05,https://www.lcsc.com/product-detail/C963201.html
+3V~4.4V 720MHz 3.9? 2:1 MSOP-10 Analog Switches - Special Purpose RoHS,10,FSUSB42MUX,0.3187,3.19,https://www.lcsc.com/product-detail/C11355.html
+4 480Mbps USB 2.0 QFN-16(3x3) Interface Controllers RoHS,10,CH334P,0.3658,3.66,https://www.lcsc.com/product-detail/C5373042.html
+12VC Clamp 6A Ipp ESD DIODE SOT-23-6,100,USBLC6-2SC6,0.0355,3.55,https://www.lcsc.com/product-detail/C2827654.html
+24k? ±1% 100mW 0603 Thick Film Resistor,100,FRC0603F2402TS,0.0027,0.27,https://www.lcsc.com/product-detail/C2930081.html
 ,,,,,
-,,Total:,,62.84,
+LCSC Shipping,,LCSC Shipping,12.62,12.62,https://www.lcsc.com/
+PCB,,PCB,5,5,https://jlcpcb.com/
+Stencil,,Stencil,3.07,3.07,https://jlcpcb.com/
+JLCPCB Shipping,,JLCPCB Shipping,9.5,9.5,https://jlcpcb.com/
+,,,,,
+,,Total:,,53.61,
