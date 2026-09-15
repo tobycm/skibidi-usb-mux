@@ -641,8 +641,8 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "skibidi-usb-mux.glb",
+      "vrml": "skibidi-usb-mux.wrl"
     },
     "page_layout_descr_file": ""
   },

@@ -4344,12 +4344,6 @@
 		(path "/2712a5bb-f275-4394-84d5-3dad6add89c6")
 		(sheetname "/")
 		(sheetfile "skibidi-usb-mux.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "6")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4675,6 +4669,7 @@
 		)
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SW-TH_6P-L5.8-W5.8-P2.00-LS4.5-BL_1.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4683,6 +4678,17 @@
 			)
 			(rotate
 				(xyz 0 0 180)
+			)
+		)
+		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SW-TH_6P-L5.8-W5.8-P2.00-LS4.5-BL_1.step"
+			(offset
+				(xyz 0 0 5.1)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
